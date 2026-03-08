@@ -1,4 +1,4 @@
-# Hi, I'm David Faerman 👋
+# Hi, I'm David Faerman 🇧🇷🇨🇦
 
 Software Engineer focused on backend systems, financial applications, and scalable products.
 
@@ -23,38 +23,45 @@ My long-term goal is to **take on leadership roles in large tech companies or bu
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java" />
+</td>
+</tr>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+<tr>
+<td><strong>Web</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</td>
+</tr>
 
-### Backend
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+</td>
+</tr>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+</td>
+</tr>
 
-### Databases
+<tr>
+<td><strong>DevOps</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,vercel" />
+</td>
+</tr>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-
----
+## </table>
 
 # ⭐ Featured Projects
 
