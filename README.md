@@ -1,17 +1,31 @@
-# Hi, I'm David Faerman 🇧🇷🇨🇦
+<h1 align="center">Hi, I'm David Faerman 🇧🇷</h1>
 
-Software Engineer focused on backend systems, financial applications, and scalable products.
+<h3 align="center">
+Software Engineer | Backend & Financial Systems | Computer Science Student
+</h3>
 
-I started my Computer Science degree at **PUC-Rio** in 2025 and expect to graduate in **2028**. My main interests are **Artificial Intelligence**, **Blockchain**, and building systems that solve real-world problems.
+---
 
-I am particularly interested in:
+## About Me
 
-- Financial systems
-- Startups and product building
-- Backend architecture
-- Scalable web applications
+I'm a **Computer Science student at PUC-Rio**, currently pursuing my degree (2025–2028) and focusing on **backend engineering, financial systems, and scalable applications**.
 
-My long-term goal is to **take on leadership roles in large tech companies or build my own company.**
+I enjoy building **real-world products**, especially in areas related to **finance, startups, and data-driven systems**.
+
+My main technical focus includes:
+
+- Backend development using **Python, FastAPI, Node.js, and Java (Spring Boot)**
+- Fullstack applications with **Next.js, React, TypeScript, and TailwindCSS**
+- Designing and working with databases like **PostgreSQL, MongoDB, MySQL, and SQLite**
+- Deploying applications using **Docker, Vercel, and Render**
+
+Currently interested in specializing in:
+
+- **Artificial Intelligence**
+- **Blockchain technologies**
+- **Scalable backend architecture**
+
+My long-term goal is to **take on leadership roles in major technology companies or build my own startup.**
 
 ---
 
