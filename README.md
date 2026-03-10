@@ -144,7 +144,7 @@ _(coming soon)_
 # 📫 Contact
 
 LinkedIn  
-https://www.linkedin.com/in/david-faerman-08b896362/
+https://www.linkedin.com/in/david-faerman-df/
 
 Email  
 faermandev@gmail.com
