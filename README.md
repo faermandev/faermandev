@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm David Faerman 🇧🇷</h1>
 
 <h3 align="center">
-Software Engineer | Backend & Financial Systems | Computer Science Student
+Software Engineer | Full-Stack & Financial Systems | Computer Science Student
 </h3>
 
 ---
