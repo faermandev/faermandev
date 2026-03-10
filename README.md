@@ -8,7 +8,7 @@ Software Engineer | Full-Stack & Financial Systems | Computer Science Student
 
 ## About Me
 
-I'm a **Computer Science student at PUC-Rio**, currently pursuing my degree (2025–2028) and focusing on **backend engineering, financial systems, and scalable applications**.
+I'm a **Computer Science student at PUC-Rio**, currently pursuing my degree (2025–2028) and focusing on **Full-Stack, financial systems, and scalable applications**.
 
 I enjoy building **real-world products**, especially in areas related to **finance, startups, and data-driven systems**.
 
