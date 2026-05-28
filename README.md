@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm David Faerman 🇧🇷</h1>
+<h1 align="center">Hi, I'm David Faerman 🇧🇷🇨🇦</h1>
 
 <h3 align="center">
 Software Engineer · Full-Stack & Backend · Computer Science Student at PUC-Rio
