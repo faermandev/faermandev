@@ -101,18 +101,9 @@ I'm a **Computer Science student at PUC-Rio** (2025–2028), focused on building
 
 ## 🚀 Currently Building
 
-- 🏦 Financial management tools with **FastAPI**
+- 🏦 Financial management tools with **Spring Boot**
 - 🌐 Full-Stack applications with **Next.js**
-- 🤖 Exploring **AI and Blockchain** integrations
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faermandev&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faermandev&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
+- 🤖 Exploring **AI** integrations
 
 ---
 
