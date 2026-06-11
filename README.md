@@ -109,4 +109,4 @@ I'm a **Computer Science student at PUC-Rio** (2025–2028), focused on building
 
 ## ⚡ Fun Fact
 
-I enjoy combining **backend engineering with financial systems** — building tools that actually help people manage money and make better decisions.
+I enjoy combining **Artificial Inteligence and financial systems** — building tools that actually help people manage money and make better decisions.
