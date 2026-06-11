@@ -20,10 +20,10 @@ Software Engineer · Full-Stack & Backend · Computer Science Student at PUC-Rio
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student at PUC-Rio** (2025–2028), focused on building **real-world products** in finance, startups, and scalable backend systems.
+I'm a **Computer Science student at PUC-Rio** (2025–2028), focused on building **real-world products** in finance, startups, and scalable AI systems.
 
 - 🎯 Building **Full-Stack and Backend** applications with Java, Python, and TypeScript
-- 🌱 Currently deepening my knowledge in **AI, Blockchain, and Scalable Architecture**
+- 🌱 Currently deepening my knowledge in **AI and Scalable Architecture**
 - 🚀 Long-term goal: **lead engineering teams at major tech companies or build my own startup**
 - 🇧🇷 Based in Rio de Janeiro, Brazil
 
