@@ -1,18 +1,16 @@
 <h1 align="center">Hi, I'm David Faerman 🇧🇷🇨🇦</h1>
 
-<h3 align="center">
-Software Engineer · AI & Backend · Computer Science Student at PUC-Rio
-</h3>
+<h3 align="center">Backend Developer · Java & Spring Boot · Computer Science Student @ PUC-Rio</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-faerman-df/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/david-faerman-df/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:faermandev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/faermandev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/faermandev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -20,93 +18,74 @@ Software Engineer · AI & Backend · Computer Science Student at PUC-Rio
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student at PUC-Rio** (2025–2028), focused on building **real-world products** in finance, startups, and scalable AI systems.
+I'm a **Computer Science student at PUC-Rio** (2025–2028) focused on **backend development**, building well-structured, secure, and scalable REST APIs.
 
-- 🎯 Building **Full-Stack and Backend** applications with Java, Python, and TypeScript
-- 🌱 Currently deepening my knowledge in **AI and Scalable Architecture**
-- 🚀 Long-term goal: **lead engineering teams at major tech companies or build my own startup**
+- 🎯 Building **backend applications** with **Java** and **Spring Boot**
+- 🔐 Comfortable with **REST APIs**, **JWT authentication**, **relational databases**, and **cloud deployment**
+- 🌱 Currently deepening my knowledge in **scalable architecture** and the **Spring ecosystem**
+- 💼 Open to **backend / software engineering internships**
 - 🇧🇷 Based in Rio de Janeiro, Brazil
 
 ---
 
 ## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,python,java" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Cloud</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,aws,vercel" />
-    </td>
-  </tr>
-</table>
+| | |
+| ------------------ | ---- |
+| **Languages**      | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend**        | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Databases**      | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Frontend**       | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 
 ---
 
 ## ⭐ Featured Projects
 
-### 💰 Soldi
-> A **personal finance manager** designed to help users optimize how they allocate and spend their salary.
+### 📁 File Manager API
+> A **production-ready REST API** for secure file management, with JWT authentication and AWS S3 integration, fully containerized with Docker and deployed on AWS EC2.
 
-**Tech Stack:** Next.js · FastAPI · PostgreSQL · TailwindCSS · shadcn/ui
+**Stack:** Java · Spring Boot · Spring Security · PostgreSQL · AWS S3 · AWS EC2 · Docker
 
-**Features:**
-- 📊 Expense tracking and budget organization
-- 💡 Financial overview dashboard
-- 🗂 Salary allocation management
+- 🔐 JWT authentication with Spring Security
+- ☁️ File upload and storage on AWS S3
+- 🔗 Secure downloads via pre-signed URLs
+- 🐳 Dockerized with multi-stage build, deployed on EC2 (image versioned in ECR)
 
-[![Repo](https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faermandev/soldi)
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faermandev/file-manager)
 
 ---
 
-### 📁 File Manager API
-> A **production-ready REST API** for secure file management with JWT authentication and AWS S3 integration, fully containerized with Docker and deployed on AWS EC2.
+### 💰 Soldi
+> A **personal finance manager** to help users track spending and organize how they allocate their salary.
 
-**Tech Stack:** Java · Spring Boot · Spring Security · PostgreSQL · AWS S3 · Docker · AWS EC2
+**Stack:** FastAPI · PostgreSQL · Next.js · TypeScript · TailwindCSS
 
-**Features:**
-- 🔐 JWT authentication with Spring Security
-- ☁️ File upload and storage on AWS S3
-- 🔗 Secure file download via pre-signed URLs
-- 🗑 File deletion from S3 and database
-- 🐳 Dockerized with multi-stage build
-- 🚀 Deployed on AWS EC2 with image stored in AWS ECR
+- 📊 Expense tracking and budget organization
+- 🔐 JWT authentication with protected routes
+- 💡 Financial overview dashboard
 
-[![Repo](https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faermandev/file-manager)
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faermandev/soldi)
 
 ---
 
 ## 🚀 Currently Building
 
-- 🏦 Financial management tools with **Spring Boot**
-- 🌐 Full-Stack applications with **Next.js**
-- 🤖 Exploring **AI** integrations
+- 🏦 Backend services with **Spring Boot** and **Spring Security**
+- 🗄️ Deepening my work with **JPA / Hibernate** and relational data modeling
+- ☁️ Container-based deployments with **Docker** and **AWS**
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Let's Connect
 
-I enjoy combining **Artificial Intelligence and financial systems** — building tools that actually help people manage money and make better decisions.
+I'm looking for **backend / software engineering internship** opportunities. Feel free to reach out!
+
+<p>
+  <a href="https://www.linkedin.com/in/david-faerman-df/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:faermandev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
